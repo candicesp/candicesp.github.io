@@ -51,6 +51,12 @@
 	color: black;
 }
 
+.navbar{
+	position: absolute;
+  	right: 600px;
+  	bottom: 650px;
+}
+
 body{font-family: arial;
 	background-image: url("images/abstrait.jpg")}
 
@@ -63,7 +69,8 @@ p{
 
 a:hover{
 	background: pink;
-	{text-decoration: none;}
+	{text-decoration: none;
+}
 
 
 .box-black {background: black; padding: 50px;}
