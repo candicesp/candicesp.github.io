@@ -57,6 +57,26 @@
   	bottom: 650px;
 }
 
+
+.row{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.roll{
+	height: 300px;
+	width: 300px;
+}
+
+.card-title{
+	text-align: center;
+}
+
+
+
+
+
+
 body{font-family: arial;
 	background-image: url("images/abstrait.jpg")}
 
@@ -64,7 +84,7 @@ h1{color: black;
 	font-size: 40px;
 
 p{
-	background: blue)}
+	background: #93826F)}
 }
 
 a:hover{
@@ -73,16 +93,6 @@ a:hover{
 }
 
 
-.box-black {background: black; padding: 50px;}
-
-.box-red {background: red;
-}
-
-.box-yellow {background: yellow;
-}
-
-.box-green {background: green;
-}
 
 img {images/sushis1.jpg
 width: 50%;
