@@ -65,23 +65,22 @@
 
 .roll1{
 	height: 300px;
-	width: 300px;
-	background-color: black; 
+	width: 290px;
 }
 
 .roll2{
 	height: 300px;
-	width: 300px;
+	width: 290px;
 }
 
 .roll3{
 	height: 300px;
-	width: 300px;
+	width: 290px;
 }
 
 .roll4{
 	height: 300px;
-	width: 300px;
+	width: 290px;
 }
 
 .card-title{
@@ -93,13 +92,20 @@
 }
 
 .btn{
-	background-color: #e1a2ef;
+	background-color: #FFB8CE;
 	margin-left: 80px;
 }
 
+.navbar2{
+	text-align: center;
+	margin-top: 100px;
+	font-family: arial;
+	color: black;
+}
 
-
-
+.carte{
+	text-align: center;
+}
 
 
 body{font-family: arial;
