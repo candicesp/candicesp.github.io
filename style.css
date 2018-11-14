@@ -59,17 +59,42 @@
 
 
 .row{
-	margin-top: 20px;
-	margin-bottom: 20px;
+	margin-top: 100px;
+	margin-bottom: 100px;
 }
 
-.roll{
+.roll1{
+	height: 300px;
+	width: 300px;
+	background-color: black; 
+}
+
+.roll2{
+	height: 300px;
+	width: 300px;
+}
+
+.roll3{
+	height: 300px;
+	width: 300px;
+}
+
+.roll4{
 	height: 300px;
 	width: 300px;
 }
 
 .card-title{
 	text-align: center;
+}
+
+.card-text{
+	text-align: center;
+}
+
+.btn{
+	background-color: #e1a2ef;
+	margin-left: 80px;
 }
 
 
